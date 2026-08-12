@@ -8,9 +8,11 @@ I'm a third-year Software Engineering student passionate about building **full-s
 
 ## 🌐 Socials & Connections
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/shakila-jahan-tasnia-756547345/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-181717?style=for-the-badge\&logo=google-chrome\&logoColor=white)]([YOUR_PORTFOLIO_LINK](https://tashu-26.github.io/Portfolio/))
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)]([YOUR_FACEBOOK_LINK](https://www.facebook.com/shakila.jahan.tasnia/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakila-jahan-tasnia-756547345/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-181717?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tashu-26.github.io/Portfolio/)
+
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shakila.jahan.tasnia/)
 
 ---
 
